@@ -1,0 +1,15 @@
+===================================
+        TRAIN TICKET
+===================================
+Train Name: {{ train_name }}
+From: {{ from_stn_name }} ({{ from_time }})
+To: {{ to_stn_name }} ({{ to_time }})
+Average Speed: {{ average_speed }} km/h
+
+Passenger Details:
+Name: {{ name }}
+Email: {{ email }}
+Age: {{ age }}
+Berth Preference: {{ berth }}
+
+===================================

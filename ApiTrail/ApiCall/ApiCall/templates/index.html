@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Train Data</title>
+</head>
+<body>
+
+<h1>Train Data</h1>
+
+<form id="train-form" method="post">
+    {% csrf_token %}
+    <label for="train-no">Enter Train Number:</label>
+    <input type="text" id="train-no" name="train_no">
+    <button type="submit">Get Train Data</button>
+</form>
+
+<!-- ... existing code ... -->
+
+<div id="train-data">
+    <!-- Train data display section -->
+    {% if train_data %}
+        <h2>{{ train_data.train_name }}</h2>
+        <p>From: {{ train_data.from_stn_name }} ({{ train_data.from_time }})</p>
+        <p>To: {{ train_data.to_stn_name }} ({{ train_data.to_time }})</p>
+        <p>Average Speed: {{ train_data.average_speed }} km/h</p>
+        
+        <!-- Book ticket form -->
+        <h3>Book Ticket</h3>
+        <form id="book-ticket-form" method="post" action="/book-ticket/">
+            {% csrf_token %}
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br><br>
+            
+            <label for="berth">Berth Preference:</label>
+            <select id="berth" name="berth" required>
+                <option value="Lower">Lower</option>
+                <option value="Middle">Middle</option>
+                <option value="Upper">Upper</option>
+                <option value="Side Lower">Side Lower</option>
+                <option value="Side Upper">Side Upper</option>
+            </select><br><br>
+            
+            <button type="submit">Book Ticket</button>
+        </form>
+    {% elif error_message %}
+        <p>{{ error_message }}</p>
+    {% endif %}
+</div>
+
+<!-- ... existing code ... -->

@@ -1,0 +1,155 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012493085,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012566944,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012569284,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012574624,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012575605,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012575885,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012576105,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012576624,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012701966,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012732283,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012733483,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012733846,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012734503,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012734685,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012734983,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012815464,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+E:\ApiTrail\ApiCall\ApiCall\views.py changed, reloading.
+E:\ApiTrail\ApiCall\ApiCall\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713012958547,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+E:\ApiTrail\ApiCall\ApiCall\views.py changed, reloading.
+E:\ApiTrail\ApiCall\ApiCall\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713013091202,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=17411 HTTP/1.1" 200 394
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713013149922,"data":{"train_no":"17411","train_name":"MAHALAXMI EXP","from_stn_name":"C Shivaji Maharaj T","from_stn_code":"CSMT","to_stn_name":"C Sahumaharaj T Kolhapur","to_stn_code":"KOP","from_time":"20.20","to_time":"07.20","travel_time":"11.00","running_days":"1111111","type":"MAIL_EXPRESS","train_id":"15828","distance_from_to":"518","average_speed":"47"}}
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713068294185,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Not Found: /book-ticket/
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713068398144,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Not Found: /book-ticket/
+E:\ApiTrail\ApiCall\ApiCall\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=22137 HTTP/1.1" 200 364
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713068526482,"data":{"train_no":"22137","train_name":"PRERANA EXPRESS","from_stn_name":"Nagpur","from_stn_code":"NGP","to_stn_name":"Ahmedabad Jn","to_stn_code":"ADI","from_time":"08.15","to_time":"00.45","travel_time":"16.30","running_days":"0010011","type":"SUPERFAST","train_id":"26","distance_from_to":"957","average_speed":"58"}}
+Internal Server Error: /book-ticket/
+Traceback (most recent call last):
+  File "C:\Users\Chetan\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Chetan\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\ApiTrail\ApiCall\ApiCall\views.py", line 60, in book_ticket
+    train_data = json.loads(train_data.replace("'", "\""))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Starting new HTTPS connection (1): indian-railway-api.cyclic.app:443
+https://indian-railway-api.cyclic.app:443 "GET /trains/getTrain/?trainNo=17411 HTTP/1.1" 200 394
+Response status code: 200
+Response text: {"success":true,"time_stamp":1713191709739,"data":{"train_no":"17411","train_name":"MAHALAXMI EXP","from_stn_name":"C Shivaji Maharaj T","from_stn_code":"CSMT","to_stn_name":"C Sahumaharaj T Kolhapur","to_stn_code":"KOP","from_time":"20.20","to_time":"07.20","travel_time":"11.00","running_days":"1111111","type":"MAIL_EXPRESS","train_id":"15828","distance_from_to":"518","average_speed":"47"}}
+Internal Server Error: /book-ticket/
+Traceback (most recent call last):
+  File "C:\Users\Chetan\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Chetan\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\ApiTrail\ApiCall\ApiCall\views.py", line 60, in book_ticket
+    train_data = json.loads(train_data.replace("'", "\""))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
